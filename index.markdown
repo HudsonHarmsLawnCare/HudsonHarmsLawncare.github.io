@@ -1,4 +1,3 @@
-**bold** 
 <html>
 <body>
 <h1>
